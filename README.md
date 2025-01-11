@@ -1,7 +1,7 @@
 # Selenium-code
 My first selenium code with python.
 <br>
-Author-Ashish Sinha
+Author-Ashish Sinha.
 <br>
 from selenium import webdriver
 from selenium.webdriver.common.by import By
